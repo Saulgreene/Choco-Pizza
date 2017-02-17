@@ -1,3 +1,7 @@
+html{
+  margin-left: 15%;
+  margin-right: 15%;
+}
 footer{
   display: inline-block;
 }
@@ -11,8 +15,7 @@ section{
   float: right;
 }
 #big-pic{
-  margin-left: 15%;
-  margin-right: 15%;
+  width: auto;
 }
 #logo{
   float: left;
@@ -40,8 +43,6 @@ h5{
 .main-text{
   text-align: left;
   width: auto;
-  margin-left: 15%;
-  margin-right: 15%;
   text-indent: 25px;
 }
 .chocolate-pizza{
