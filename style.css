@@ -1,0 +1,83 @@
+html{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+footer{
+  display: inline-block;
+}
+section{
+  display: inline-block;
+  height: 100px;
+  width: 100%;
+}
+.tiny-pics{
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.delicious-header{
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+}
+#big-pic{
+  width: 100%;
+}
+#logo{
+  float: left;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+#end-info{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 10pt;
+  color: grey;
+  line-height: 1px;
+}
+.vanessa{
+  display: inline-block;;
+}
+#vanessapic{
+  float: left;
+}
+#list{
+  margin-left: auto;
+  margin-right: auto;
+}
+h5{
+  margin-top: 2px;
+  padding-top: 2px;
+}
+.main-text{
+  text-align: left;
+  width: 100%;
+  text-indent: 25px;
+}
+.chocolate-pizza{
+  padding: 0;
+}
+.list{
+  display: inline-block;
+  font-size: 22px;
+}
+.bottom-line{
+  display: inline;
+}
+.bottom-line-posted{
+  float: left;
+}
+.printer-pic{
+  float: right;
+}
+#printing{
+  width: 75px;
+  height: 25px;
+}
+.text-list{
+  background-image: url(chocpizzapics/list-bg.png);
+}
